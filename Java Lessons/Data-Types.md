@@ -1,8 +1,8 @@
 # Data Types
 
-## Like most programming languages, Java contains a handful of different types of data.
+### Like most programming languages, Java contains a handful of different types of data
 
-### The most common ones are
+#### The most common ones are:
 
 ## Integers
 
@@ -14,7 +14,7 @@ Examples:
 
 ## Floats
 
-> Also known as floting point numbers also known as decimals. These aren't used much (You'll find out why in a second), they're still here because of backwards compatibility.
+> Also known as floating point numbers also known as decimals. These aren't used much (You'll find out why in a second), they're still here because of backwards compatibility.
 
 Examples:
 
@@ -34,7 +34,7 @@ Examples:
 
 Examples:
 
-```'a', 'b', 'c', '1', '2', '3', .,  (space is also a character), *, /, etc..```
+```'a', 'b', 'c', '1', '2', '3', '.', ' '(space is also a character), '*', '/', etc..```
 
 ## Strings
 
