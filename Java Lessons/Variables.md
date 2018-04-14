@@ -1,8 +1,8 @@
 # Variables
 
-### Like in Algebra variables like x, y, etc. stores values
+## Like in Algebra variables like x, y, etc. stores values
 
-#### How variables are used in math:
+### How variables are used in math:
 
 ```
 x = 5
@@ -11,7 +11,7 @@ y = x / 2
 The value of y is 2.5
 ```
 
-#### How variables are used in programming:
+### How variables are used in programming:
 
 ```java
 // The layout of making variables
@@ -21,7 +21,7 @@ datatype variableName = value
 
 // datatype    // variableName   // value
 int            x               = 5;
-int y = x / 2;
+int y = x / 2; // The value of y is 2.5
 
 double pi = 3.14159;
 
@@ -33,8 +33,7 @@ String sentence = "This is a sentence"
 
 // If you know what values (they are set) will be inside the array you can make an array like so:
 
-int[] integerArray = {1, 2, 3, 4, x, y}; 
-(Since x and y are both integers they can be apart of the integer array)
+int[] integerArray = {1, 2, 3, 4, x, y}; //Since x and y are both integers they can be apart of the integer array
 
 // If you do not know what will be going inside the array you can make an array like so: 
 
@@ -46,11 +45,8 @@ double[3] = 4.0;
 double[4] = 5.0;
 double[5] = pi; // Since pi is a double it can be stored in the array
 ```
+
 > So if later on we want to get the value of a variable later we would just reference it by the variable name you put.
-
-
-```Like so```
-
 
 ## Assignment
 
