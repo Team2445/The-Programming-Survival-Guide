@@ -17,6 +17,8 @@ The value of y is 2.5
 // The layout of making variables
 datatype variableName = value
 
+// Variable names have to start with letters not numbers, but you can use numbers after letters.
+
 // datatype    // variableName   // value
 int            x               = 5;
 int y = x / 2;
@@ -45,6 +47,10 @@ double[4] = 5.0;
 double[5] = pi; // Since pi is a double it can be stored in the array
 ```
 > So if later on we want to get the value of a variable later we would just reference it by the variable name you put.
+
+
+```Like so```
+
 
 ## Assignment
 
