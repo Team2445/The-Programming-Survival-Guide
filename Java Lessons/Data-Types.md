@@ -28,6 +28,12 @@ Examples:
 
 ```1.0, 1.1, 1.2, 1.375, etc..```
 
+## Booleans
+
+> Booleans have only two values, true or false. You can think of them as asking a regular true or false questions. If you don't like true/false questions then think of them as yes/no questions. Basically there's only two responses that you can use.
+
+```true and false that's it.```
+
 ## Characters
 
 > Characters are essentially all the keys on your keyboard and more. Think of it as a single letter (This will make more sense in a second). Usually defined by apostraphies ```''```
