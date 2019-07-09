@@ -3,9 +3,9 @@ layout: default
 title: Installing Git
 parent: Getting Started
 permalink: /getting-started/installing-git/
-nav_order: 2
+nav_order: 1
 ---
-### Download Git from [here](https://git-scm.com)
+### Download the latest version of Git from [here](https://git-scm.com)
 
 All the default settings are fine to use.
 
@@ -48,8 +48,10 @@ What if I changed a handful of files that all pertain to a specific task
 git add .
 {% endhighlight %}
 
-What does "." mean? . is just a shortcut for the directory you're in. Let's say you're currently in the directory ```/Documents/Projects/Robotics/NewProject/``` then "." would be that path. (For reference ".." means the previous directory from the current so using the same directory from before ".." would be "/Documents/Projects/Robotics")
+What does "." mean? . is just a shortcut for the directory you're in. Let's say you're currently in the directory ```/Documents/Projects/Robotics/NewProject/``` then "." would be that path. (For reference ".." means the previous directory from the current so using the same directory from before ".." would be ```/Documents/Projects/Robotics```)
 
 ### Resources:
 
 - [Github Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+- [TutorialsPoint Git](https://www.tutorialspoint.com/git/)
+- [Github Interactive Lessons](https://lab.github.com/)
