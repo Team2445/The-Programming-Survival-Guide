@@ -1,5 +1,9 @@
-# Tuning PIDs
-
+---
+layout: default
+category: Advanced Robot Tutorials
+order: 1
+title: Tuning PIDs
+---
 ## Velocity/Motion Profiling (CTRE Phoenix)
 
 1. Calculate Feedforward Gain (F)
