@@ -1,23 +1,23 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: The Programming Survival Guide
+url: "kapoleirobotics.com"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: Kapolei Robotics Programming tutorials.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: Team 2445
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - https://github.com/Team2445
 
 # -----
 # Build
