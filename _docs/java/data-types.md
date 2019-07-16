@@ -12,9 +12,9 @@ In every programming language there's different types of data. You interact with
 
 Examples:
 
-{% highlight java %}
+```java
 1, 2, 3, 4, 5, // I think you get the picture...
-{% endhighlight %}
+```
 
 #### Floats
 
@@ -22,9 +22,9 @@ Examples:
 
 Examples:
 
-{% highlight java %}
+```java
 1.0, 1.1, 1.2, 1.375, // etc..
-{% endhighlight %}
+```
 
 #### Doubles
 
@@ -32,17 +32,17 @@ Examples:
 
 Examples:
 
-{% highlight java %}
+```java
 1.0, 1.1, 1.2, 1.375, // etc..
-{% endhighlight %}
+```
 
 #### Booleans
 
 > Booleans have only two values, true or false. You can think of them as asking a regular true or false questions. If you don't like true/false questions then think of them as yes/no questions. Basically there's only two responses that you can use.
 
-{% highlight java %}
+```java
 true and false // that's it.
-{% endhighlight %}
+```
 
 #### Characters
 
@@ -50,9 +50,9 @@ true and false // that's it.
 
 Examples:
 
-{% highlight java %}
+```java
 'a', 'b', 'c', '1', '2', '3', '.', ' ' /*(space is also a character)*/, '*', '/', // etc..
-{% endhighlight %}
+```
 
 #### Strings
 
@@ -60,10 +60,10 @@ Examples:
 
 Examples:
 
-{% highlight java %}
+```java
 "hello", "one two three four", "1 2 3 4", "3.14159" /*(This is a string **NOT** a double)*/,
 " " // (Yes a space is also a String since a space is a character), // etc...
-{% endhighlight %}
+```
 
 #### Arrays
 
@@ -71,6 +71,6 @@ Examples:
 
 Examples:
 
-{% highlight java %}
+```java
 {"Test", "One", "2", "***"}, {'h', 'e', 'l', 'l', 'o'}, {1.23, 3.14159, 24.45}
-{% endhighlight %}
+```
