@@ -64,3 +64,5 @@ int y = h(x);
 ```
 
 Let's look at what goes on beind the scenes of the function ***h***. First, *5* is plugged into the **argument** *x*. Then *5* is plugged into the function ***g*** which returns a value of *x + 2* which gives us *7*. Finally, it plugs the value of ***g(5)*** into the function ***f*** and returns the square of the argument *x*. So, the ending result is *7\*7* which is *49*.
+
+The purpose of showing you **function composition** is to show that you can use functions within a function. Since at the end of the day, functions are just the data type you specified that just takes in an **argument**.
