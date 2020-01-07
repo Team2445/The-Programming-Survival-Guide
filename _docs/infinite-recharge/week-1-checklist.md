@@ -1,13 +1,12 @@
 ---
 title: Week 1 Checklist
-category: Infinite Recharge
+category: 2020 Infinite Recharge
 order: 1
 ---
 ## Training Checklist
 1. Go through codecademy's [Java Tutorial](https://www.codecademy.com/learn/learn-java).
 2. Read through the [Learning Git](https://team2445.github.io/The-Programming-Survival-Guide/git/learning-git/) resources.
 3. Read the WPILib [basic programming overview](https://docs.wpilib.org/en/latest/docs/software/wpilib-overview/index.html)
-4. 
 
 ## Development Environment Checklist
 1. Uninstall all of the previous year programs (except for Git).
