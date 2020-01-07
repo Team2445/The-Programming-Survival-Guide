@@ -1,7 +1,7 @@
 ---
 title: Installing FRC Tools
 category: Getting Started
-order: 2
+order: 3
 ---
 ## The FRC Control Systems Bible  
 Refer to this site often FRC related tips and tricks

@@ -1,7 +1,7 @@
 ---
-title: Installing FRC Tools
+title: New Season Checklist
 category: Getting Started
-order: 2
+order: 1
 ---
 ## Development Environment Checklist
 1. Uninstall all of the previous year programs (except for Git)  
