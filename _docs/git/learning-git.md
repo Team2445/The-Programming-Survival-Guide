@@ -9,8 +9,8 @@ order: 1
 | --- | --- |  
 | `git checkout -b [branch name]`  | Creates a branch [branch name] and switches to it |  
 | `git merge [branch name]`        | Merges [branch name] __into__ current branch |  
-| `git log --oneline` | Shows full list of commit messages. Press `q` to stop viewing |   
-| `git reset --hard` | Resets all changes back to the last commit |  
+| `git log --oneline` | Shows full list of commit messages. Press **q** to stop viewing |   
+| `git reset --hard` | Resets all changes back to the last commit |   
 | `git commit --amend -m "message"` | Replaces last commit message with message |  
 
 ## Simple Explanation of Git
