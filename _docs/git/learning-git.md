@@ -3,6 +3,7 @@ title: Learning Git
 category: Git
 order: 1
 ---
+<<<<<<< HEAD
 ## Quick References
 <<<<<<< HEAD
 | Bash Command                     | What it Does                                           |
@@ -21,6 +22,17 @@ order: 1
 | `git reset --hard` | Resets all changes back to the least commit |
 | `git commit --amend -m "message"` | Edits last commit message |
 >>>>>>> f91d11ef57f2fb32569edbec29158c47f7c670be
+=======
+## Quick References  
+
+| Bash Command | What it Does |  
+| --- | --- |  
+| `git checkout -b [branch name]`  | Creates a branch [branch name] and switches to it |  
+| `git merge [branch name]`        | Merges [branch name] __into__ current branch |  
+| `git log --oneline` | Shows full list of commit messages. Press **q** to stop viewing |   
+| `git reset --hard` | Resets all changes back to the last commit |   
+| `git commit --amend -m "message"` | Replaces last commit message with message |  
+>>>>>>> 8af324aeeac9b89e99e727e0fbc9d17cb85f7b68
 
 ## Simple Explanation of Git
 This is a simplified explanation of git a small amount of reading
