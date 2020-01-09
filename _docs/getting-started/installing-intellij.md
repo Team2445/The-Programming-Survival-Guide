@@ -5,7 +5,7 @@ order: 3
 ---
 1. Go through the installer until you get to this popup.
   ![step 1](../../images/intellij/step1.PNG)
-  Make sure it looks like the image.
+  * Make sure it looks like the image.
 2. Keep hitting next until this pops up
   ![step 2](../../images/intellij/step2.PNG)
   Hit disable on Android, Swing, and Plugin Development.
