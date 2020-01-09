@@ -3,6 +3,15 @@ title: Learning Git
 category: Git
 order: 1
 ---
+## Quick References
+| Bash Command                     | What it Does                                           |
+|----------------------------------|--------------------------------------------------------|
+| `git checkout -b [branch name]`  | Creates a branch `[branch name]` and switches to it    |
+| `git merge [branch name]`        | Merges `[branch name]` __into__ current branch         |
+| `git log --oneline`              | Shows full list of commits. Press `q` to stop viewing  | 
+| `git reset --hard`               | Resets all changes back to the least commit            |
+| `git commit --amend -m "message"`| Edits last commit message                              |
+
 ## Simple Explanation of Git
 This is a simplified explanation of git a small amount of reading
 [The Simple Guide to Git](https://marklodato.github.io/visual-git-guide/index-en.html)
