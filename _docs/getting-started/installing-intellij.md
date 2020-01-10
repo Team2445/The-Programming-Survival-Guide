@@ -23,7 +23,7 @@ order: 3
 5. Change to the Marketplace tab and search for FRC and install the plugin.
    ![frc-plugin](../../images/intellij/frc-plugin.PNG)
 6. Search for Save Actions and install the plugin.
-7. Download [this](https://gist.githubusercontent.com/lukemcd9/10fd4cd23724a5355fbfa8bfeff316bb/raw/5636db05d1265cf4ba8a4c047b064791d4b49783/frc-2445-code-style.xml) (right click link, Save As) Click Configure again, then Settings, Editor, Code Style
+7. Download [this](https://gist.githubusercontent.com/lukemcd9/10fd4cd23724a5355fbfa8bfeff316bb/raw/f3c5767245463530177798871c4104df068ea1e2/frc-2445-code-style.xml) (right click link, Save As) Click Configure again, then Settings, Editor, Code Style
    ![code style](../../images/intellij/code-style.PNG)
    Click the settings gear and Import Scheme, IntelliJ IDEA code style XML. Find the file you just downloaded and import it.
    ![import](../../images/intellij/import.png)
