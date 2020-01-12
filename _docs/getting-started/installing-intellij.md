@@ -86,5 +86,10 @@ Do not install any plugins and click Start IntelliJ Idea
 11. On the Warning box, select **Leave**  
 12. Click OK  
 
+## Enable Save Actions  
+1. Once the above is completed, in IntelliJ, click on Code in the top menu
+2. Hover Over Save Actions and then click on Enable Save Actions  
+
+
 
 
