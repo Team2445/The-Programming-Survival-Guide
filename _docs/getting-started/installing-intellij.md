@@ -73,22 +73,22 @@ Do not install any plugins and click Start IntelliJ Idea
 1. Click on Configure FRC Team Number and put in our team number
 
 ## Save Actions Setup  
-1. Open IntelliJ and Click On Settings  
-2. On the left side of the Window, Select Save Actions  
-3. Check the Activate save actions on shortcut  
-3. Under the Formatting actions heading, check Optimize imports and Reformat only changed code  
-5. On the left side of the Window, Select Keymap  
-6. Click the right arrow next to Plug-ins  
-7. Click the right arrow next to Save Actions  
-8. Right click on Execute Save Actions on Shortcut and select remove Ctrl Shift S  
-9. Right click on Execute Save Actions on Shortcut and select Add Keyboard Shortcut  
-10. Change the keystroke to Ctrl S  
+1. Open IntelliJ and Click On **Settings**  
+2. On the left side of the Window, Select **Save Actions**  
+3. Check the **Activate save actions on shortcut**  
+3. Under the **Formatting actions** heading, check **Optimize imports** and **Reformat only changed code**  
+5. On the left side of the Window, Select **Keymap**  
+6. Click the **arrow** next to **Plug-ins**  
+7. Click the **arrow** next to **Save Actions**  
+8. Right click on **Execute Save Actions on Shortcut** and select **Remove Ctrl+Shift+S**  
+9. Right click on **Execute Save Actions on Shortcut** and select **Add Keyboard Shortcut**  
+10. Change the keystroke to **Ctrl+S**  
 11. On the Warning box, select **Leave**  
-12. Click OK  
+12. Click **OK**  
 
 ## Enable Save Actions  
-1. Once the above is completed, in IntelliJ, click on Code in the top menu
-2. Hover Over Save Actions and then click on Enable Save Actions  
+1. Once the above is completed, in IntelliJ, click on **Code** in the top menu
+2. Hover Over **Save Actions** and then click on **Enable Save Actions**  
 
 
 
