@@ -15,8 +15,9 @@ order: 3
 1. The JetBrains Privacy Policy Window will appear, read through the agreement and check the **I confirm that I have read and accept the terms of this User Agreement**  and then click Continue  
 2. On the Data Sharing Window, Click **Don't Send**  
 3. Select the Theme that you would like to use (Darcula prefered), click **Next: Default plugins**  
+
 ### Default Plugin Configuration  
-  ![step 2](../../images/intellij/step2.PNG)  
+  ![step 2](../../images/intellij/step2.PNG)   
 
 1. Hit **Disable** on **Android**, **Swing**, and **Plugin Development**
 2. Configure the plugins below. Once complete, click **Next: Featured Plugins**  

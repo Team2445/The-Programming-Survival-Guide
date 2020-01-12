@@ -13,6 +13,8 @@ For the 2020 Season, we will be using IntelliJ Community Edition as our primary 
 
 ## 1. Install WPILib
 > NOTE: Before starting the following, ensure Git is installed  
+
+
 1. Unzip `WPILibInstaller_Windows64-XXXXX.zip` onto your Desktop and run the executable  
 2. On the Admin Checker Window, Select All Users  
 3. Leave the default checkboxes on the WPILib Installer Window, and click on Execute Install  
