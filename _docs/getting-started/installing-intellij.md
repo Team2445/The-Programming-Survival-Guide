@@ -16,7 +16,9 @@ order: 3
 2. On the Data Sharing Window, Click **Don't Send**  
 3. Select the Theme that you would like to use (Darcula prefered), click **Next: Default plugins**  
 
+
 ### Default Plugin Configuration  
+
   ![step 2](../../images/intellij/step2.PNG)   
 
 1. Hit **Disable** on **Android**, **Swing**, and **Plugin Development**
@@ -27,7 +29,9 @@ order: 3
 2. Uncheck **Mercurial** and **Subversion**  
 3. Click on **Save Changes and Go Back**  
 
+
 ![version control](../../images/intellij/version-control.PNG)  
+
 
 #### Test Tools  
 1. Click on **Customize**  
@@ -37,6 +41,7 @@ order: 3
 ![test](../../images/intellij/Testing.PNG)  
 
 ### Featured Plugins  
+
 Do not install any plugins and click Start IntelliJ Idea  
 
 ## IntelliJ Configuration  
