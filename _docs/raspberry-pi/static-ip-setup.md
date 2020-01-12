@@ -4,7 +4,6 @@ category: Raspberry Pi
 order: 1
 title: Static IP Setup
 ---
-## Setting up a Static IP
 This documentation assumes that you are using a Raspberry Pi that has already been configured for SSH.
 
 1. SSH to the Raspberry Pi by using command `ssh pi@raspberrypi.local` (requires LAN connection to the Pi) and enter its password when prompted.  
