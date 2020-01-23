@@ -3,8 +3,6 @@ title: Learning Git
 category: Git
 order: 1
 ---
-## Quick References   
-
 ### Pushing Changes to a Branch
 
 | Bash Command | What it Does |  
@@ -20,7 +18,7 @@ order: 1
 | `git checkout -b [branch name]` | Creates new branch `[branch name]` and switches to it |
 | `git push -u origin [branch name]` | Pushes *newly created* branch to remote repo. |
 
-### Other  
+### Other Useful Commands  
 
 | Bash Command | What it Does |  
 | --- | --- |  
