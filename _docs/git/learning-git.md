@@ -3,20 +3,28 @@ title: Learning Git
 category: Git
 order: 1
 ---
-## Pushing to a Branch (basic)  
+## Quick References   
+
+### Pushing Changes to a Branch
 
 | Bash Command | What it Does |  
 | --- | --- |
 | `git add --all` | Stages all changes that you made |
 | `git commit -m "<Message>"` | Commit changes with message `<message>` |
-| `git push` | Push your changes to remote repository |
+| `git push` | Push your changes to remote repository. For pushing *pre-existing* branches |
 
-## Quick References  
+### Creating a new Branch
+
+| Bash Command | What it Does |  
+| --- | --- |
+| `git checkout -b [branch name]` | Creates new branch `[branch name]` and switches to it |
+| `git push -u origin [branch name]` | Pushes *newly created* branch to remote repo. |
+
+### Other  
 
 | Bash Command | What it Does |  
 | --- | --- |  
-| `git checkout -b [branch name]`  | Creates a branch [branch name] and switches to it |
-| `git merge [branch name]`        | Merges [branch name] __into__ current branch |  
+| `git merge [branch name]` | Merges [branch name] __into__ current branch |  
 | `git log --oneline` | Shows full list of commit messages. Press **q** to stop viewing |
 | `git reset --hard` | Resets all changes back to the last commit |
 | `git commit --amend -m "message"` | Replaces last commit message with message |
