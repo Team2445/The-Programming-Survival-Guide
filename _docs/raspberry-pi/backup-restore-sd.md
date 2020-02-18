@@ -77,8 +77,10 @@ Device     Boot  Start      End  Sectors  Size Id Type
 /dev/sdb2       532480 31116287 30583808 14.6G 83 Linux
 ```  
 
-4. Once you identify your disk, run this command
-> WARNING: THIS WILL FORMAT ALL DATA ON THE DISK SPECIFIED. DOUBLE CHECK THAT YOU ARE FORMATING THE RIGHT DISK SINCE THERE WILL BE NO CONFIRMATION WHEN YOU RUN THIS COMMAND
+4. Once you identify your disk, run this command  
+
+> WARNING: THIS WILL FORMAT ALL DATA ON THE DISK SPECIFIED. DOUBLE CHECK THAT YOU ARE FORMATING THE RIGHT DISK SINCE THERE WILL BE NO CONFIRMATION WHEN YOU RUN THIS COMMAND  
+
 ```shell
 sudo dd if=~/Desktop/YYYY-MM-name-of-backup.img of=/dev/sdx bs=4M
 ```
