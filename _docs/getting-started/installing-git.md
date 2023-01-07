@@ -3,15 +3,13 @@ title: Installing Git
 category: Getting Started
 order: 2
 ---
-# Preparation
-
+# Preparation  
+> NOTE: Use a professional username if you plan on pursing programming into the future. Many employers will want to see your GitHub account, so don't select something you will regret later  
 1. Create a GitHub account here: [https://github.com/join](https://github.com/join)
 
-> NOTE: Use a professional username if you plan on pursing programming into the future. Many employers will want to see your GitHub account, so don't select something you will regret later  
+> Be sure to share your GitHub username with a Programming Mentor or Senior Programmer so you get added to the GitHub organization
 
 2. Download Git from here: [https://git-scm.com/downloads](https://git-scm.com/downloads)  
-
->Be sure to share your GitHub username with a Programming Mentor or Senior Programmer so you get added to the GitHub organization
 
 # Install Instructions
 
