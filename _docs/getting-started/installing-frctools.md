@@ -11,7 +11,8 @@ order: 1
 4. Download the latest REV Hardware Client [https://docs.revrobotics.com/rev-hardware-client/](https://docs.revrobotics.com/rev-hardware-client/)
 
 ## 1. Install WPILib & VS Code
-> NOTE: Before starting the following, ensure [Git](./installing-git/) is installed  
+> NOTE: Before starting the following, ensure [Git](../installing-git/) is installed  
+
 1. Follow the installation instructions for the WPILib Release here: [https://docs.wpilib.org/en/latest/docs/zero-to-robot/step-2/wpilib-setup.html](https://docs.wpilib.org/en/latest/docs/zero-to-robot/step-2/wpilib-setup.html)  
 
 ## 2. Install FRC Game Tools  
