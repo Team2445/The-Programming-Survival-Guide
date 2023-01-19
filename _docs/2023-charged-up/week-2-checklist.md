@@ -12,3 +12,6 @@ order: 2
 
 ## Limelight
 1. Programatically get AprilTag values from the limelight  
+
+## LEDs
+1. Figure out how to control LED lights from RIO or Arduino
