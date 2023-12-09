@@ -1,7 +1,7 @@
 ---
 title: Installing FRC Tools
 category: Getting Started
-order: 1
+order: 2
 ---
 
 ## Preparation

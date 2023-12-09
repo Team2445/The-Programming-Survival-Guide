@@ -1,7 +1,7 @@
 ---
 title: Installing Git
 category: Getting Started
-order: 2
+order: 3
 ---
 # Preparation  
 > NOTE: Use a professional username if you plan on pursing programming into the future. Many employers will want to see your GitHub account, so don't select something you will regret later  
