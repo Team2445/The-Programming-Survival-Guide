@@ -10,8 +10,8 @@ order: 1
 
 ## Development Environment Checklist
 1. Uninstall all of the previous year programs (except for Git).  
-2. [Sign up for a GitHub account and Install Git](../getting-started/installing-frctools/)  
-3. [Follow the Installing FRC Tools Instructions](../getting-started/installing-git/)  
+2. [Sign up for a GitHub account and Install Git](/1getting-started/installing-git/)  
+3. [Follow the Installing FRC Tools Instructions](/1getting-started/installing-frctools/)
 
 ## New Season Checklist
 1. Uninstall Update the Drive Laptop and install the latest FRC Tools / Development Environment  
