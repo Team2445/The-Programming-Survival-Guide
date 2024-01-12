@@ -20,7 +20,7 @@ order: 2
     1. Follow the installation instructions here: [https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html)
 
 ## 3. Install CTRE Phoenix Framework  
-1. Unzip the `CTRE.Phoenix.Gramework.vXX.XX.XX.XX.zip` and then run the executable  
+1. Unzip the `CTRE.Phoenix.Framework.vXX.XX.XX.XX.zip` and then run the executable  
 
 ## 4. Install REV Hardware Client  
 1. Run the installer.  
